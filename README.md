@@ -1,4 +1,3 @@
-<!-- filepath: /D:/Pavan_Khamitkar/Frontend/Weather_app/README.md -->
 # Weather Dashboard App 🌤️
 
 A modern, responsive weather application built with React, TypeScript, and Vite that provides real-time weather information and forecasts.
@@ -33,7 +32,6 @@ A modern, responsive weather application built with React, TypeScript, and Vite 
 1. Clone the repository
 ```bash
 git clone https://github.com/PavanKhamitkar/Real-Time_Weather_Website.git
-cd weather-dashboard
 ```
 
 2. Create `.env` file in the root directory
@@ -106,9 +104,6 @@ The app uses OpenWeatherMap API for:
 - [ ] Implement PWA support
 - [ ] Add dark/light theme toggle
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🤝 Contributing
 
