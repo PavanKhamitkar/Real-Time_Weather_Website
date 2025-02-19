@@ -32,7 +32,7 @@ A modern, responsive weather application built with React, TypeScript, and Vite 
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/weather-dashboard.git
+git clone https://github.com/PavanKhamitkar/Real-Time_Weather_Website.git
 cd weather-dashboard
 ```
 
